@@ -1,6 +1,10 @@
 body{
-    background-color: #ffffff;
-}
+    margin: 0;
+    font-family: sans-serif;
+    background: linear-gradient(rgba(255, 255, 255, 0),rgba(255, 255, 255, 0)),url("front/imagenes/5466093.jpg")no-repeat;
+    background-size: cover;
+    }
+
 .titulo{
     padding-left: 30px;
     font-size: 30px;
